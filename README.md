@@ -56,18 +56,12 @@ Financial institutions process millions of transactions daily. Fraud is rare but
 fraud-detection-project/
 │
 ├── README.md
-├── .gitignore
-├── Fraud_Project (1).py # Databricks notebook with all SQL code
+├── Fraud_Project (1).py    
 ├── fraud_risk_analytics_databricks_project_updated.docx
 │
-├── dashboard/ # Power BI dashboard file
-│ └── fraud_dashboard.pbix
-│
-├── screenshots/ # Visual outputs
-│ ├── fraud_by_time.png
-│ ├── fraud_by_risk.png
-│ ├── risk_score_scatter.png
-│ └── fraud_vs_normal.png
+└── screenshots/                    
+    ├── Screenshot 2026-03-09 at 23.16.19.png
+    └── Screenshot 2026-03-10 at 09.38.22.png
 ```
 
 
