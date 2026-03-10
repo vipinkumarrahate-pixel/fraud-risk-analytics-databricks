@@ -7,6 +7,7 @@ Analyzing fraud patterns and building a risk scoring system to support real-time
 - <a href="#dataset">Dataset</a>
 - <a href="#tools--technologies">Tools & Technologies</a>
 - <a href="#project-structure">Project Structure</a>
+- <a href="#view-the-code-notebook">View the Code Notebook</a> 
 - <a href="#data-cleaning--preparation">Data Cleaning & Preparation</a>
 - <a href="#exploratory-data-analysis-eda">Exploratory Data Analysis (EDA)</a>
 - <a href="#research-questions--key-findings">Research Questions & Key Findings</a>
@@ -68,6 +69,15 @@ fraud-detection-project/
 
 ---
 
+<h2><a class="anchor" id="view-the-code-notebook"></a>📁 View the Code Notebook</h2>
+
+**Click to view the complete Databricks notebook with all SQL code:**  
+
+👉 [**Fraud Detection SQL Code**](https://htmlpreview.github.io/?https://raw.githubusercontent.com/vipinkumarrahate-pixel/fraud-risk-analytics-databricks/refs/heads/main/Fraud_Project%20(1).html)
+
+*Opens instantly in your browser with full formatting—no downloads needed.*
+
+---
 <h2><a class="anchor" id="data-cleaning--preparation"></a>Data Cleaning & Preparation</h2>
 
 - Removed invalid transactions (amount ≤ 0) 
